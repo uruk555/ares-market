@@ -4,11 +4,11 @@ Ares Market stands out from the crowd by not only offering walletless pay, but n
 ## Ares Market Link:
 
 ```sh
-http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion
+http://sn2sfd7xy4sanmakirc3vc6c2qlzcav4efd3kt3po4pykohh3ygku2id.onion
 ```
-[<img src="/assets/visit-market.webp" width="200">](http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion)
+[<img src="/assets/visit-market.webp" width="200">](http://sn2sfd7xy4sanmakirc3vc6c2qlzcav4efd3kt3po4pykohh3ygku2id.onion)
 
-<a href="http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion"><img src="/assets/ares-preview.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://sn2sfd7xy4sanmakirc3vc6c2qlzcav4efd3kt3po4pykohh3ygku2id.onion"><img src="/assets/ares-preview.webp" alt="image" style="max-width: 100%;"><a>
 
 This is a strictly scientific and educational repository, the purpose of which is to give an idea of the world of the darkweb. We do not collect any commissions/kickbacks from market affiliate links. We are not affiliated with any legal entity and do not support illegal activities.
 
@@ -19,4 +19,4 @@ Ares Market is a standout darknet marketplace that has emerged as a hub where pr
 
 To create an account, you just need to provide a unique username (not linked to any of your previous login details), a password (we suggest a random string of letters, numbers and special symbols) and a 6-digit withdrawal PIN.
 
-<a href="http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion"><img src="/assets/ares-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion"><img src="/assets/ares-register.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://sn2sfd7xy4sanmakirc3vc6c2qlzcav4efd3kt3po4pykohh3ygku2id.onion"><img src="/assets/ares-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://sn2sfd7xy4sanmakirc3vc6c2qlzcav4efd3kt3po4pykohh3ygku2id.onion"><img src="/assets/ares-register.webp" alt="image" style="max-width: 100%;"><a>
